@@ -17,12 +17,10 @@
 
     setup these veriable in your environment variable or in settings.py
 
-    ```python
     ACCESS_KEY_ID, ACCESS_KEY_SCRET  # your aliyun access key id & scret
     ENDPOINT  # your aliyun oss endpoint
     BUCKET_NAME  # your bucket name
     OSS_TIMEOUT  # oss access timeout, default as 30s.
-    ```
     
     the storage will use your MEIDA_ROOT variable as you bucket file prefix, if you do *not* like this please leave MEDIA_ROOT to ''
 
@@ -35,4 +33,4 @@
 ## Changelog
 
 ## License
-    基于MIT许可证发布
+    MIT
