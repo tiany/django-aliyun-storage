@@ -19,7 +19,7 @@ except IOError:
 
 setup(
     name="django-aliyun-storage",
-    version="0.0.0",
+    version="0.0.1",
     description="Django storage for Aliyun OSS Storage",
     long_description=long_description,
 
